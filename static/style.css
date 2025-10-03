@@ -1,2 +1,17 @@
-body { font-family: Arial, sans-serif; margin: 40px; }
-h1 { color: #2a7f62; }
+body { 
+  font-family: Arial, sans-serif; 
+  margin: 40px; 
+}
+
+h1 { 
+  color: #2a7f62; 
+}
+
+.welcome-box {
+  padding: 20px;
+  border: 2px solid #2a7f62;
+  border-radius: 10px;
+  background-color: #e6f4f1;
+  max-width: 600px;
+}
+
